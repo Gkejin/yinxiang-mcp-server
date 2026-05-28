@@ -1,5 +1,3 @@
-# yinxiang-mcp-server
-印象笔记MCP，权限全开
 # 印象笔记 MCP Server
 
 让 AI 助手（如 Claude、Cursor 等）直接管理你的印象笔记！支持搜索、创建、更新、删除笔记，管理笔记本和标签。
