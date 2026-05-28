@@ -79,18 +79,6 @@ npm run build
 4. **网络要求**：需要能正常访问印象笔记服务。
 5. **权限范围**：Token 拥有对你账户的完全访问权限，请谨慎使用。
 
----
-
-## 项目结构
-
-```
-yinxiang-mcp-server/
-├── src/
-│   └── index.ts          # 主入口文件
-├── dist/                 # 编译输出
-├── package.json          # 项目依赖
-├── tsconfig.json         # TypeScript 配置
-└── README.md             # 本文件
 ```
 
 ---
